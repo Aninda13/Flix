@@ -25,4 +25,5 @@ Here is a video walkthrough of implemented User Stories:
 GIF created with [RecordIt](https://recordit.co/)
 
 ### Notes
-Describe any challenges encountered while building the app.
+I found parsing the URL for the Image sources a bit challenging compared to the rest of the assignment.
+I wasn't able to run the app on a real device as I don't own any Iphone.
