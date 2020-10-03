@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 Here is a video walkthrough of implemented User Stories:
 
-<img src="https://i.imgur.com/eAJMEcg.gif" width=250><br>
+<img src="http://g.recordit.co/8zoVLbprqd.gif" width=250><br>
 
 GIF created with [RecordIt](https://recordit.co/)
 ---
@@ -33,6 +33,12 @@ GIF created with [RecordIt](https://recordit.co/)
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
+### App Walkthrough GIF
+Here is a video walkthrough of implemented User Stories:
+
+<img src="http://g.recordit.co/SPKFKmhlcJ.gif" width=250><br>
+
+GIF created with [RecordIt](https://recordit.co/)
 
 ### Notes
 I found parsing the URL for the Image sources a bit challenging compared to the rest of the assignment.
